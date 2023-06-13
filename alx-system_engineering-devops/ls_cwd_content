@@ -1,0 +1,5 @@
+total 4
+drwxr-xr-x 2 root root  47 Jun 13 12:08 .
+drwxr-xr-x 5 root root 103 Jun 13 12:06 ..
+-rw-r--r-- 1 root root 135 Jun 13 12:08 8-cwd_state
+-rw-r--r-- 1 root root   0 Jun 13 12:08 ls_cwd_content
